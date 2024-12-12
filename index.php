@@ -1,2 +1,3 @@
 <?php
-echo "Darth Vader";
+$sith = "Darth Vader";
+echo $sith;
